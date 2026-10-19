@@ -1,0 +1,18 @@
+LUMI'S SECRET ARCHIVE — A3 WEBSITE
+
+1. Unzip this folder.
+2. Double-click index.html to open the website.
+3. This is Chloe's WEBSITE contribution.
+4. The other group members' media will be inserted later.
+5. The main insertion area is media-map.html and the Evidence Room.
+
+Current pages:
+- index.html — Home
+- timeline.html — Timeline
+- evidence.html — Evidence Room
+- media-map.html — Team media connection page
+- feed-lumi.html — Audience secret interaction
+- theory.html — Audience theory interaction
+- community.html — Community Archive
+
+Do not delete the other pages. They form the website.
