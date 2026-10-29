@@ -67,6 +67,7 @@ h2{font-size:54px;line-height:1;margin:7px 0 18px;font-weight:500;letter-spacing
 
 /* Original storyworld media added for A3 */
 .story-image{display:block;width:100%;height:auto;max-height:620px;object-fit:contain;background:#d8cbb8;border:1px solid #a99a84;margin:15px 0 8px}
+.story-video{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:contain;background:#171923;border:1px solid #a99a84;margin:15px 0 8px}
 .story-image.portrait{max-width:460px;margin-left:auto;margin-right:auto}
 .image-caption{font:10px 'Courier New',monospace;letter-spacing:.5px;line-height:1.6;color:#766653;margin:6px 0 14px}
 .file .image-caption{color:#9c8a73}
