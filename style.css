@@ -63,3 +63,19 @@ h2{font-size:54px;line-height:1;margin:7px 0 18px;font-weight:500;letter-spacing
 .toast{position:fixed;right:22px;bottom:22px;z-index:200;background:#e7dccb;color:#211d19;border-left:3px solid var(--red);padding:13px 16px;box-shadow:0 10px 30px rgba(0,0,0,.35);font:11px 'Courier New',monospace;transform:translateY(20px);opacity:0;pointer-events:none;transition:.25s}.toast.show{transform:none;opacity:1}
 @media(max-width:900px){.hero-grid,.grid2,.grid3,.file-grid,.media-map{grid-template-columns:1fr}.choice-grid,.board-lines{grid-template-columns:1fr}.hero h1{letter-spacing:-2px}.nav{gap:8px}.nav a{font-size:8px}.paper{padding:48px 6%}h2{font-size:44px}.hero{padding-top:55px}.cat-portrait{margin-top:10px}}
 @media(max-width:600px){.topin{align-items:flex-start;flex-direction:column;padding:12px 0}.nav{justify-content:flex-start}.hero h1{font-size:58px}.hero-copy{font-size:18px}.section{padding:55px 0}.panel h3,.file h3{font-size:25px}}
+
+
+/* Original storyworld media added for A3 */
+.story-image{display:block;width:100%;height:auto;max-height:620px;object-fit:contain;background:#d8cbb8;border:1px solid #a99a84;margin:15px 0 8px}
+.story-image.portrait{max-width:460px;margin-left:auto;margin-right:auto}
+.image-caption{font:10px 'Courier New',monospace;letter-spacing:.5px;line-height:1.6;color:#766653;margin:6px 0 14px}
+.file .image-caption{color:#9c8a73}
+.media-card .story-image{max-height:460px}
+.social-gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin-top:22px}
+.social-item{padding:15px;background:#e8decd;border:1px solid #b6a58c;min-width:0}
+.social-item h3{font-size:23px;margin:6px 0}
+.social-item p{font-size:15px}
+.social-item img{width:100%;height:auto;max-height:500px;object-fit:contain;background:#d8cbb8;border:1px solid #b6a58c}
+.home-art{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:22px;align-items:center;margin-top:25px}
+.home-art img{width:100%;height:auto;max-height:530px;object-fit:contain;background:#e1d5c0;border:1px solid #b6a58c}
+@media(max-width:700px){.social-gallery,.home-art{grid-template-columns:1fr}}

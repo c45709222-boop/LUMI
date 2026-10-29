@@ -47,3 +47,7 @@ These are intentionally tied to the storyworld rather than generic comments/foll
 
 ## Local storage note
 The secret and community interactions are currently stored only in the visitor's browser via `localStorage`. This is suitable as an interaction prototype. If the final project requires real public UGC, connect an approved service and add appropriate privacy wording.
+
+
+## A3 media additions
+The `media/` folder now contains the eight visual assets supplied for this update. They are placed across the Evidence Room, Media Map and home page with captions and alt text. Instagram-style screenshots are presented as storyworld posts/mock-ups, not as verified real-world records.
